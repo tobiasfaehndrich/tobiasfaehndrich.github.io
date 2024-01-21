@@ -1,0 +1,25 @@
+---
+title: 'New Year Post'
+date: 2024-01-20
+permalink: /year-archive/new-year-post/
+tags:
+  - thoughts
+  - testing
+---
+
+One goal I have had for some time is to make a functioning website that I can update every so often with whatever I want. This is the first blog post to test out this page!
+
+Reasons to have a website
+======
+
+Portfolio and CV
+------
+You can share the work that you have done in an interactive way.
+
+Photos
+------
+You can share photos from trips
+
+Thoughts
+------
+You can write and share thoughts on your own terms.
