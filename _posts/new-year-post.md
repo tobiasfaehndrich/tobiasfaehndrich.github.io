@@ -1,7 +1,8 @@
 ---
 title: 'New Year Post'
 date: 2024-01-20
-permalink: /year-archive/new-year-post/
+collection: posts
+permalink: /posts/new-year-post
 tags:
   - thoughts
   - testing
